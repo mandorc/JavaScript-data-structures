@@ -1,0 +1,3 @@
+function timesFive(argument) {
+  return argument * 5;
+}
